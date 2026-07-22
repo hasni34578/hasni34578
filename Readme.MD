@@ -1,122 +1,232 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=200&section=header&text=Hasnain%20Yousaf&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Flutter%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20App%20Builder&descAlignY=56&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hasnain%20Yousaf&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Mobile%20%26%20Web%20Builder&descAlignY=52&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=2EA8B5&center=true&vCenter=true&random=false&width=640&lines=Flutter+%2F+Dart+Mobile+App+Developer;Full-Stack+Engineer+%7C+Angular+%2F+React+%2B+Node.js;Building+Real-Time+Chat+%26+Dashboard+Apps;TypeScript+%C2%B7+JavaScript+%C2%B7+REST+APIs)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=whky234&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/whky234?label=Followers&style=for-the-badge&color=4a00e0" alt="followers" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Mobile+App+Developer;Full-Stack+Engineer+%7C+Angular+%2F+React+%2B+Node.js;Real-Time+Chat+%26+Dashboard+Systems;Turning+Ideas+Into+Cross-Platform+Apps)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
 
-## 👨‍💻 About Me
+## 🧬 About Me
 
-I'm a **Software Engineer** building cross-platform mobile apps with Flutter, and full-stack web apps with Angular, React, and Node.js.
+```yaml
+name: Hasnain Yousaf
+role: Software Engineer
+focus: [Flutter Apps, Full-Stack Web, Real-Time Systems]
+location: Pakistan 🇵🇰
+currently_building: Mobile apps with AI features + full-stack dashboards
+open_to: Freelance & full-time opportunities
+```
 
-- 📱 **Mobile:** Flutter, Dart — AI-powered apps, trackers, attendance systems
-- ⚡ **Full-Stack:** Angular, React, Node.js, Express, TypeScript
-- 💬 **Real-Time Apps:** Chat systems, dashboards, e-commerce
-- 🌍 Based in Pakistan
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📱 Mobile Development
+Building polished, production-ready Flutter apps — from AI face recognition to expense tracking and attendance systems.
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Mobile**
+### ⚡ Full-Stack Web
+Shipping complete client + server pairs — chat apps, admin dashboards, and e-commerce platforms with Angular, React & Node.js.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Frontend**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧠 Tech Arsenal
 
-**Backend & State Management**
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,ts,js,nodejs,express,redux,html,css,git,github,vscode,figma&theme=dark" />
 
-**Tools**
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<details>
+<summary><b>📂 Click to expand full stack breakdown</b></summary>
+<br/>
 
----
+| Category | Technologies |
+|:---|:---|
+| **Mobile** | Flutter · Dart |
+| **Frontend** | Angular · React · TypeScript · JavaScript · HTML5 · CSS3 |
+| **Backend** | Node.js · Express |
+| **State Management** | Redux Toolkit · Context API |
+| **Tools** | Git · GitHub · VS Code · Figma |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+**[🤖 AI-Face-Recognition-App](https://github.com/whky234/AI-Face-Recognition-App)**
+<br/>Facial recognition mobile app powered by on-device AI
+<br/>`Flutter` `Dart`
+
+</td>
+<td width="50%">
+
+**[💰 Expense-Tracker](https://github.com/whky234/Expense-Tracker)**
+<br/>Track daily spending and manage personal budgets
+<br/>`Flutter` `Dart`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[✅ Attendace-App-](https://github.com/whky234/Attendace-App-)**
+<br/>Attendance management app for presence tracking
+<br/>`Flutter` `Dart`
+
+</td>
+<td width="50%">
+
+**[🎨 Flutter-UI-Screens](https://github.com/whky234/Flutter-UI-Screens)**
+<br/>Collection of polished, reusable Flutter UI designs
+<br/>`Flutter` `Dart`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🛒 E-commerce- ⭐](https://github.com/whky234/E-commerce-)**
+<br/>Full-stack storefront with product listings & cart
+<br/>`TypeScript`
+
+</td>
+<td width="50%">
+
+**[🖼️ ImageConverter ⭐](https://github.com/whky234/ImageConverter)**
+<br/>Web tool for converting images between formats
+<br/>`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[💬 ChatFronted](https://github.com/whky234/ChatFronted) / [ChatBacKend](https://github.com/whky234/ChatBacKend)**
+<br/>Real-time chat app — client & server
+<br/>`TypeScript` `JavaScript`
+
+</td>
+<td width="50%">
+
+**[📊 Dashfron](https://github.com/whky234/Dashfron) / [DashBack](https://github.com/whky234/DashBack)**
+<br/>Full-stack admin dashboard — frontend & backend
+<br/>`TypeScript` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[🌦️ Weather-App](https://github.com/whky234/Weather-App)**
+<br/>Weather forecasts via Angular, consuming a third-party API
+<br/>`Angular` `TypeScript`
+
+</td>
+<td width="50%">
+
+**[📝 Task-manager](https://github.com/whky234/Task-manager)**
+<br/>Task management web app for organizing to-dos
+<br/>`TypeScript`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>🗂️ More projects</b></summary>
+<br/>
+
 | Project | Description | Stack |
 |:--|:--|:--|
-| [**AI-Face-Recognition-App**](https://github.com/whky234/AI-Face-Recognition-App) | Mobile app for facial recognition using on-device AI models | Flutter, Dart |
-| [**Expense-Tracker**](https://github.com/whky234/Expense-Tracker) | Mobile app to track daily expenses and manage personal budgets | Flutter, Dart |
-| [**Attendace-App-**](https://github.com/whky234/Attendace-App-) | Attendance management app for tracking presence and records | Flutter, Dart |
-| [**Flutter-UI-Screens**](https://github.com/whky234/Flutter-UI-Screens) | Collection of polished, reusable Flutter UI screen designs | Flutter, Dart |
-| [**E-commerce-**](https://github.com/whky234/E-commerce-) ⭐ | Full-stack e-commerce storefront with product listings and cart | TypeScript |
-| [**ImageConverter**](https://github.com/whky234/ImageConverter) ⭐ | Web tool for converting images between different formats | TypeScript |
-| [**ChatFronted**](https://github.com/whky234/ChatFronted) / [**ChatBacKend**](https://github.com/whky234/ChatBacKend) | Real-time chat application — client and server | TypeScript, JavaScript |
-| [**Dashfron**](https://github.com/whky234/Dashfron) / [**DashBack**](https://github.com/whky234/DashBack) | Full-stack admin dashboard — frontend and backend | TypeScript, JavaScript |
-| [**Weather-App**](https://github.com/whky234/Weather-App) | Weather forecast app built with Angular, consuming a third-party API | Angular, TypeScript |
-| [**Task-manager**](https://github.com/whky234/Task-manager) | Task management web app for organizing to-dos and projects | TypeScript |
-| [**Currency-Converter**](https://github.com/whky234/Currency-Converter) | Currency conversion tool using the Fetch API | HTML, CSS, JavaScript |
-| [**TIC-TAC-GAME**](https://github.com/whky234/TIC-TAC-GAME) | Classic Tic-Tac-Toe game built with vanilla web technologies | HTML, CSS, JavaScript |
+| [Currency-Converter](https://github.com/whky234/Currency-Converter) | Currency conversion tool using the Fetch API | HTML, CSS, JavaScript |
+| [TIC-TAC-GAME](https://github.com/whky234/TIC-TAC-GAME) | Classic Tic-Tac-Toe built with vanilla web tech | HTML, CSS, JavaScript |
+| [ReduxToolkitConnect](https://github.com/whky234/ReduxToolkitConnect) | Practice project connecting Redux Toolkit to React | TypeScript |
+| [contextTodo](https://github.com/whky234/contextTodo) | To-do app built with React Context API | TypeScript |
+| [Booksmangementsystem2](https://github.com/whky234/Booksmangementsystem2) | Book management system | TypeScript |
+| [booksmanagement](https://github.com/whky234/booksmanagement) | Book management system (v1) | TypeScript |
 
----
+</details>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=whky234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whky234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=whky234&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B026FF&icon_color=4A00E0&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whky234&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=B026FF&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=whky234&theme=radical&hide_border=true&background=0D1117&ring=B026FF&fire=4A00E0&currStreakLabel=B026FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whky234&theme=redical&bg_color=0D1117&color=B026FF&line=4A00E0&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=whky234&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+
+<sub>💡 Enable this by adding the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your profile repo</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&width=100%" width="100%" />
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-whky234-B026FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/whky234)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=whky234&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 💼 Open to Flutter, full-stack, and mobile development opportunities
+### 🇵🇰 Building from Pakistan
 
 </div>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whky234&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=whky234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-whky234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whky234)
-
-</div>
-
----
-
-<div align="center">
-
-**Open to Flutter, full-stack, and mobile development opportunities**
-
-*Building from Pakistan 🇵🇰*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=150&section=footer" width="100%" />
