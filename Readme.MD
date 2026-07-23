@@ -89,15 +89,6 @@ I'm a **Software Engineer** building cross-platform mobile apps with Flutter, an
 
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hasni34578&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
