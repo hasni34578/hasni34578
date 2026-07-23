@@ -63,8 +63,8 @@ I'm a **Software Engineer** building cross-platform mobile apps with Flutter, an
 | [**Dashfron**](https://github.com/whky234/Dashfron) / [**DashBack**](https://github.com/whky234/DashBack) | Full-stack admin dashboard — frontend and backend | TypeScript, JavaScript |
 | [**Weather-App**](https://github.com/whky234/Weather-App) | Weather forecast app built with Angular, consuming a third-party API | Angular, TypeScript |
 | [**Task-manager**](https://github.com/whky234/Task-manager) | Task management web app for organizing to-dos and projects | TypeScript |
-| [**Currency-Converter**](https://github.com/whky234/Currency-Converter) | Currency conversion tool using the Fetch API | HTML, CSS, JavaScript |
-| [**TIC-TAC-GAME**](https://github.com/whky234/TIC-TAC-GAME) | Classic Tic-Tac-Toe game built with vanilla web technologies | HTML, CSS, JavaScript |
+| [**Currency-Converter**](https://github.com/hasni34578/Currency-Converter) | Currency conversion tool using the Fetch API | HTML, CSS, JavaScript |
+| [**TIC-TAC-GAME**](https://github.com/hasni34578/TIC-TAC-GAME) | Classic Tic-Tac-Toe game built with vanilla web technologies | HTML, CSS, JavaScript |
 
 ---
 
@@ -72,20 +72,20 @@ I'm a **Software Engineer** building cross-platform mobile apps with Flutter, an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=whky234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whky234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasni34578&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasni34578&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=whky234&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hasni34578&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=whky234&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasni34578&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -95,7 +95,7 @@ I'm a **Software Engineer** building cross-platform mobile apps with Flutter, an
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=whky234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hasni34578&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -105,7 +105,7 @@ I'm a **Software Engineer** building cross-platform mobile apps with Flutter, an
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-whky234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whky234)
+[![GitHub](https://img.shields.io/badge/GitHub-hasni34578-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasni34578)
 
 </div>
 
