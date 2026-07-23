@@ -53,16 +53,16 @@ I'm a **Software Engineer** building cross-platform mobile apps with Flutter, an
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| [**AI-Face-Recognition-App**](https://github.com/whky234/AI-Face-Recognition-App) | Mobile app for facial recognition using on-device AI models | Flutter, Dart |
-| [**Expense-Tracker**](https://github.com/whky234/Expense-Tracker) | Mobile app to track daily expenses and manage personal budgets | Flutter, Dart |
-| [**Attendace-App-**](https://github.com/whky234/Attendace-App-) | Attendance management app for tracking presence and records | Flutter, Dart |
-| [**Flutter-UI-Screens**](https://github.com/whky234/Flutter-UI-Screens) | Collection of polished, reusable Flutter UI screen designs | Flutter, Dart |
-| [**E-commerce-**](https://github.com/whky234/E-commerce-) ⭐ | Full-stack e-commerce storefront with product listings and cart | TypeScript |
-| [**ImageConverter**](https://github.com/whky234/ImageConverter) ⭐ | Web tool for converting images between different formats | TypeScript |
-| [**ChatFronted**](https://github.com/whky234/ChatFronted) / [**ChatBacKend**](https://github.com/whky234/ChatBacKend) | Real-time chat application — client and server | TypeScript, JavaScript |
-| [**Dashfron**](https://github.com/whky234/Dashfron) / [**DashBack**](https://github.com/whky234/DashBack) | Full-stack admin dashboard — frontend and backend | TypeScript, JavaScript |
-| [**Weather-App**](https://github.com/whky234/Weather-App) | Weather forecast app built with Angular, consuming a third-party API | Angular, TypeScript |
-| [**Task-manager**](https://github.com/whky234/Task-manager) | Task management web app for organizing to-dos and projects | TypeScript |
+| [**AI-Face-Recognition-App**](https://github.com/hasni34578/AI-Face-Recognition-App) | Mobile app for facial recognition using on-device AI models | Flutter, Dart |
+| [**Expense-Tracker**](https://github.com/hasni34578/Expense-Tracker) | Mobile app to track daily expenses and manage personal budgets | Flutter, Dart |
+| [**Attendace-App-**](https://github.com/hasni34578/Attendace-App-) | Attendance management app for tracking presence and records | Flutter, Dart |
+| [**Flutter-UI-Screens**](https://github.com/hasni34578/Flutter-UI-Screens) | Collection of polished, reusable Flutter UI screen designs | Flutter, Dart |
+| [**E-commerce-**](https://github.com/hasni34578/E-commerce-) ⭐ | Full-stack e-commerce storefront with product listings and cart | TypeScript |
+| [**ImageConverter**](https://github.com/hasni34578/ImageConverter) ⭐ | Web tool for converting images between different formats | TypeScript |
+| [**ChatFronted**](https://github.com/hasni34578/ChatFronted) / [**ChatBacKend**](https://github.com/whky234/ChatBacKend) | Real-time chat application — client and server | TypeScript, JavaScript |
+| [**Dashfron**](https://github.com/hasni34578/Dashfron) / [**DashBack**](https://github.com/whky234/DashBack) | Full-stack admin dashboard — frontend and backend | TypeScript, JavaScript |
+| [**Weather-App**](https://github.com/hasni34578/Weather-App) | Weather forecast app built with Angular, consuming a third-party API | Angular, TypeScript |
+| [**Task-manager**](https://github.com/hasni34578/Task-manager) | Task management web app for organizing to-dos and projects | TypeScript |
 | [**Currency-Converter**](https://github.com/hasni34578/Currency-Converter) | Currency conversion tool using the Fetch API | HTML, CSS, JavaScript |
 | [**TIC-TAC-GAME**](https://github.com/hasni34578/TIC-TAC-GAME) | Classic Tic-Tac-Toe game built with vanilla web technologies | HTML, CSS, JavaScript |
 
